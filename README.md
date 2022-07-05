@@ -9,7 +9,7 @@
 - [ ] NPM
 - [ ] WEBPACK
 ### Demo
- [demo](https://aliatayee.github.io)
+ [demo](https://aliatayee.github.io/react-to-do-app)
 ### Install & Setup
 
 To setup and install this sample React To Do App project, follow the below steps:
