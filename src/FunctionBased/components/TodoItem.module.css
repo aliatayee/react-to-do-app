@@ -1,0 +1,28 @@
+.item {
+    font-size: 1.2rem;
+    list-style-type: none;
+    padding: 17px 0px;
+    padding-left: 5px;
+    padding-right: 5px;
+    border-bottom: 1px solid #eaeaea42;
+    color: white;
+    
+  }
+  
+  .checkbox {
+    margin-right: 15px;
+  }
+  
+  .item button {
+    font-size: 13px;
+    border: none;
+    cursor: pointer;
+    float: right;
+    outline: none;
+    background-color: transparent;
+  }
+  .textInput {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #dfdfdf;
+  }
