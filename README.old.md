@@ -9,7 +9,7 @@
 - [ ] NPM
 - [ ] WEBPACK
 ### Demo
-Coming Soon
+ [demo](https://aliatayee.github.io)
 ### Install & Setup
 
 To setup and install this sample React To Do App project, follow the below steps:
@@ -49,6 +49,7 @@ To run the tests for linters locally, you must have node installed on your compu
 
 - GitHub: [@aliatayee](https://github.com/aliatayee)
 - Twitter: [@aqaatayee](https://twitter.com/aqaatayee)
+
 
 
 ## 🤝 Contributing
